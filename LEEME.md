@@ -1,6 +1,6 @@
-Hola sisi, estás casi en el final. Lo que tienes que hacer ahora es descargar el archivo. este estara comprimido por lo tanto deberás descomprimirlo, el archivo debe ser extensión ".txt" y despues de descomprimirlo entra a esta pagina "https://luckypro1206.github.io/teamoooo"  y sigue las instrucciones que te da la pagina. (copia y pega la pagina en una nueva pestaña, porque deberás estar viendo esta constantemente)
+Ucyñ gvgv, rghág pñgv ra ry svañy. Yc eir hvrarg eir uñprf ñucfñ rg qrgpñftñf ry ñfpuvjc. rghr rghñfñ pczdfvzvqc dcf yc hñahc qrorfág qrgpczdfvzvfyc, ry ñfpuvjc qror grf rlhragvóa ".hlh" m qrgdirg qr qrgpczdfvzvfyc rahfñ ñ rghñ dñtvañ "uhhdg://yipxmdfc1206.tvhuio.vc/hrñzcccc" m gvtir yñg vaghfippvcarg eir hr qñ yñ dñtvañ. (pcdvñ m drtñ yñ dñtvañ ra iañ airjñ drghñbñ, dcfeir qrorfág rghñf jvraqc rghñ pcaghñahrzrahr)
 
-Ancho=x
+Ñapuc=x
 x=(a*a)+(b*b)
 
 a+(c*c)=b
@@ -14,4 +14,4 @@ x<=2000
 d≠a"
 
 
-Alto= Ancho-(Ancho/100)²
+ñyhc= Ñapuc-(Ñapuc/100)²
