@@ -1,4 +1,4 @@
-Hola sisi, estás casi en el final. Lo que tienes que hacer ahora es descargar el archivo. este estara comprimido por lo tanto deberás descomprimirlo, el archivo debe ser extensión ".txt" y despues de descomprimirlo entra a esta pagina "https://luckypro1206.github.io/teamoooo"  y sigue las instrucciones que te da la pagina. 
+Hola sisi, estás casi en el final. Lo que tienes que hacer ahora es descargar el archivo. este estara comprimido por lo tanto deberás descomprimirlo, el archivo debe ser extensión ".txt" y despues de descomprimirlo entra a esta pagina "https://luckypro1206.github.io/teamoooo"  y sigue las instrucciones que te da la pagina. (copia y pega la pagina en una nueva pestaña, porque deberás estar viendo esta constantemente)
 
 Ancho=x
 x=(a*a)+(b*b)
